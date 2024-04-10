@@ -1,0 +1,7 @@
+# ninja log v5
+4	148	7329066995591227	CMakeFiles/imgui-node-editor.dir/imgui_canvas.cpp.obj	b94166fcd73b005
+8	469	7329066998787139	CMakeFiles/imgui-node-editor.dir/imgui_node_editor_api.cpp.obj	35bd1c1170a52b2f
+2	551	7329066999612379	CMakeFiles/imgui-node-editor.dir/crude_json.cpp.obj	bbc5fc3a5d2da0f2
+6	1080	7329067004866165	CMakeFiles/imgui-node-editor.dir/imgui_node_editor.cpp.obj	8ba40b6a2fe3c22e
+1080	1110	7329067005196192	imgui-node-editor.lib	847e36bdeaa5292c
+1110	1182	0	CMakeFiles/install.util	5203827d2736ddc2

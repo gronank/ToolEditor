@@ -1,0 +1,9 @@
+Package: imgui-node-editor
+Version: 0.9.3
+Port-Version: 1
+Depends: imgui, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 3181f3e3c5e545dd6bcab1c44a4e5f796e2377b6bd53a8ad84e0a012122baa43
+Description: Node Editor built using Dear ImGui
+Status: purge ok half-installed

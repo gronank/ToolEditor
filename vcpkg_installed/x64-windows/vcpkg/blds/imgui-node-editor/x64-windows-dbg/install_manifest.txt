@@ -1,0 +1,3 @@
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/debug/lib/imgui-node-editor.lib
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/debug/share/unofficial-imgui-node-editor/unofficial-imgui-node-editor-config.cmake
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/debug/share/unofficial-imgui-node-editor/unofficial-imgui-node-editor-config-debug.cmake

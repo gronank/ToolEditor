@@ -1,0 +1,12 @@
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/lib/imgui-node-editor.lib
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/crude_json.h
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/imgui_bezier_math.h
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/imgui_bezier_math.inl
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/imgui_canvas.h
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/imgui_extra_math.h
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/imgui_extra_math.inl
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/imgui_node_editor.h
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/imgui_node_editor_internal.h
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/include/imgui-node-editor/imgui_node_editor_internal.inl
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/share/unofficial-imgui-node-editor/unofficial-imgui-node-editor-config.cmake
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui-node-editor_x64-windows/share/unofficial-imgui-node-editor/unofficial-imgui-node-editor-config-release.cmake

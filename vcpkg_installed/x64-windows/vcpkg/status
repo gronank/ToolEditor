@@ -1,0 +1,247 @@
+Package: vcpkg-cmake-config
+Version: 2022-02-06
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: da3dcb3854d27d81058371b6c83b6edd4b9ee7986b35691cb5c07900e4fc4744
+Status: install ok installed
+
+Package: vcpkg-cmake
+Version: 2023-05-04
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 6e1093493b60452773946784339074d16d14766d3276da355e23a7a92a9c31eb
+Status: install ok installed
+
+Package: glfw3
+Version: 3.4
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: f5b730e3f4e953b2859aa0bd7866feeba8e26f789d7bcac79d45a4053b02fdcd
+Description: GLFW is a free, Open Source, multi-platform library for OpenGL, OpenGL ES and Vulkan application development. It provides a simple, platform-independent API for creating windows, contexts and surfaces, reading input, handling events, etc.
+Status: install ok installed
+
+Package: imgui
+Version: 1.90.2
+Depends: vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 7ddc6405faa5d8574f2163e7c5908be6eedbd8a5474fc4084d5f8f9fbd95e6f6
+Description: Bloat-free Immediate Mode Graphical User interface for C++ with minimal dependencies.
+Status: install ok installed
+
+Package: imgui
+Feature: docking-experimental
+Architecture: x64-windows
+Multi-Arch: same
+Description: Build with docking support
+Status: install ok installed
+
+Package: imgui
+Feature: glfw-binding
+Depends: glfw3
+Architecture: x64-windows
+Multi-Arch: same
+Description: Make available GLFW binding
+Status: install ok installed
+
+Package: imgui
+Feature: opengl3-binding
+Architecture: x64-windows
+Multi-Arch: same
+Description: Make available OpenGL3/ES/ES2 (modern) binding
+Status: install ok installed
+
+Package: egl-registry
+Version: 2024-01-25
+Architecture: x64-windows
+Multi-Arch: same
+Abi: b6bd50918635f4fd2051bdbd51782a594a845274e17396983a728158d400e0a0
+Description: EGL API and Extension Registry
+Status: install ok installed
+
+Package: opengl-registry
+Version: 2024-02-10
+Port-Version: 1
+Depends: egl-registry
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 81c63c9e652937f73fef7f1a180610cc89d27611e716a1d808fb084b182060e4
+Description: OpenGL, OpenGL ES, and OpenGL ES-SC API and Extension Registry
+Status: install ok installed
+
+Package: glad
+Version: 0.1.36
+Depends: egl-registry, opengl-registry, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 384c5fe03d36e63d3a8f3b54c7855dd911a88cb8df429dc472fe26fe6e25bc7f
+Description: Multi-Language Vulkan/GL/GLES/EGL/GLX/WGL Loader-Generator based on the official specs.
+Default-Features: loader
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-10
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.0.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-11
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.1.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-12
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.2.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-13
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.3.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-14
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.4.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-15
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 1.5.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-20
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 2.0.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-21
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 2.1.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-30
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 3.0.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-31
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 3.1.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-32
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 3.2.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-33
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 3.3.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-40
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.0.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-41
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.1.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-42
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.2.
+Status: install ok installed
+
+Package: glad
+Feature: gl-api-43
+Architecture: x64-windows
+Multi-Arch: same
+Description: Imports extensions from OpenGL API specification version 4.3.
+Status: install ok installed
+
+Package: glad
+Feature: loader
+Architecture: x64-windows
+Multi-Arch: same
+Description: Generate loader logic.
+Status: install ok installed
+
+Package: stb
+Version: 2023-04-11
+Port-Version: 1
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 2f9ef640b222bf28ae993b8a53372a93433055ff6aaec4583eaefb2118f8bb8f
+Description: public domain header-only libraries
+Status: install ok installed
+
+Package: hello-imgui
+Version: 1.4.2
+Port-Version: 1
+Depends: imgui, stb, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 60a67d12aee6e70715ea9f7cec025b1364eb05beb5ad0da513aee7fe75f5caea
+Description: Hello ImGui: unleash your creativity in app development and prototyping
+Status: install ok installed
+
+Package: hello-imgui
+Feature: glfw-binding
+Depends: imgui
+Architecture: x64-windows
+Multi-Arch: same
+Description: Use GLFW platform backend (default)
+Status: install ok installed
+
+Package: hello-imgui
+Feature: opengl3-binding
+Depends: glad, imgui
+Architecture: x64-windows
+Multi-Arch: same
+Description: Use OpenGL3/ES2 renderer backend (default)
+Status: install ok installed
+
+Package: imgui-node-editor
+Version: 0.9.3
+Port-Version: 1
+Depends: imgui, vcpkg-cmake, vcpkg-cmake-config
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 3181f3e3c5e545dd6bcab1c44a4e5f796e2377b6bd53a8ad84e0a012122baa43
+Description: Node Editor built using Dear ImGui
+Status: install ok installed
+

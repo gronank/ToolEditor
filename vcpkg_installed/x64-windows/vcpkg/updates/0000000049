@@ -1,0 +1,7 @@
+Package: egl-registry
+Version: 2024-01-25
+Architecture: x64-windows
+Multi-Arch: same
+Abi: b6bd50918635f4fd2051bdbd51782a594a845274e17396983a728158d400e0a0
+Description: EGL API and Extension Registry
+Status: purge ok not-installed

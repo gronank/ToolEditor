@@ -1,0 +1,6 @@
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/blds/imgui-node-editor/x64-windows-rel/CMakeFiles/imgui-node-editor.dir
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/blds/imgui-node-editor/x64-windows-rel/CMakeFiles/edit_cache.dir
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/blds/imgui-node-editor/x64-windows-rel/CMakeFiles/rebuild_cache.dir
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/blds/imgui-node-editor/x64-windows-rel/CMakeFiles/list_install_components.dir
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/blds/imgui-node-editor/x64-windows-rel/CMakeFiles/install.dir
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/blds/imgui-node-editor/x64-windows-rel/CMakeFiles/install/local.dir

@@ -1,0 +1,4 @@
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui_x64-windows/debug/lib/imguid.lib
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-config.cmake
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-targets.cmake
+C:/Users/ander/source/repos/ToolEditor/vcpkg_installed/x64-windows/vcpkg/pkgs/imgui_x64-windows/debug/share/imgui/imgui-targets-debug.cmake
